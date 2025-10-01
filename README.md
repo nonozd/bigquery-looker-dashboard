@@ -15,10 +15,10 @@ y visualiza los datos en un dashboard en Looker Studio.
 
 ## Evidencias
 - [Capturas del dashboard][pruebas.docx](https://github.com/user-attachments/files/22630245/pruebas.docx)
-
-
   
+- [BIGQUERY]<img width="1196" height="715" alt="image" src="https://github.com/user-attachments/assets/e7e8855f-c7b6-42bd-a7e6-6c27e0f61efe" />
+
 - [Link al dashboard en Looker Studio](https://lookerstudio.google.com/reporting/13fdfd4e-4b5f-4eaf-bd39-b79d89af8338)
 
-## Autor
-Tu Nombre - Curso/Clase
+## Autores
+Felix Ordoñez - Elsa Salvatierra
