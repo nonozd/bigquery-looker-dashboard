@@ -20,5 +20,14 @@ y visualiza los datos en un dashboard en Looker Studio.
 
 - [Link al dashboard en Looker Studio](https://lookerstudio.google.com/reporting/13fdfd4e-4b5f-4eaf-bd39-b79d89af8338)
 
+- PREGUNTA CREATIVA
+  
+Pensé en meterle algo de IA al sistema: se podría usar Vertex AI para entrenar un modelo que aprenda de los datos de inscripciones y calificaciones y que luego prediga qué estudiantes 
+son más propensos a dejar el curso. Así, los profes o podrían recibir alertas y hacer algo antes de que pase
+
+Otra idea sería un chatbot con Dialogflow conectado al sistema para que los estudiantes pregunten cosas rápidas 
+como “¿en qué curso estoy inscrito?” o “¿cuándo empieza mi clase?” sin tener que entrar al sistema completo
+
+
 ## Autores
 Felix Ordoñez - Elsa Salvatierra
